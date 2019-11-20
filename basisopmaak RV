@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<title>homepage</title>
+</head>
+<body>
+<h1>ROMÉVLUGT</h1>
+<h2>about</h2>
+<h2>lookbook</h2>
+<h2>portfoliocv</h2>
+<h2>contact</h2>
+<h3>title/quote</h3>
+<img src=''...images.jpg''></img>
+</body>
+
+<head>
+<title>about</title>
+</head>
+<body>
+<h1>ROMÉVLUGT</h1>
+<h2>about</h2>
+<h2>lookbook</h2>
+<h2>portfoliocv</h2>
+<h2>contact</h2>
+<img src=''...images.jpg''></img>
+<p>tekstgedeelte van deze pagina</p>
+</body>
+
+<head>
+<title>lookbook</title>
+</head>
+<body>
+<h1>ROMÉVLUGT</h1>
+<h2>about</h2>
+<h2>lookbook</h2>
+<h2>portfoliocv</h2>
+<h2>contact</h2>
+<video></video>
+<p>tekstgedeelte van deze pagina</p>
+</body>
+
+  <head>
+  <title>portfoliocv</title>
+  </head>
+  <body>
+  <h1>ROMÉVLUGT</h1>
+  <h2>about</h2>
+  <h2>lookbook</h2>
+  <h2>portfoliocv</h2>
+  <h2>contact</h2>
+  <video></video>
+  <p>tekstgedeelte van deze pagina</p>
+  <video></video>
+  <p>tekstgedeelte van deze pagina</p>
+  <video></video>
+  <p>tekstgedeelte van deze pagina</p>
+  <video></video>
+  <p>tekstgedeelte van deze pagina</p>
+  </body>
+
+<head>
+<title>contact</title>
+</head>
+<body>
+<h1>ROMÉVLUGT</h1>
+<h2>about</h2>
+<h2>lookbook</h2>
+<h2>portfoliocv</h2>
+<h2>contact</h2>
+<p>FEEL FREE TO CONTACT ME</p>
+<p>name:</p>
+<p>e-mail:</p>
+<p>message:</p>
+<img src=''...images.jpg''></img>
+</body>
+</html>
