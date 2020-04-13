@@ -1,0 +1,119 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+    font: Helvetica;
+    size: 10px;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    Transform: uppercase;
+    background-color: #D9D3EA;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.nav-bar {
+    background-color: #D9D3EA;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.nav-bar a {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5em;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: baseline;
+
+
+}
+
+#RV-banner {
+    position: 0 0;
+    size: cover;
+    height: 500px;
+    max-width: 100%;
+}
+
+#lookbook-video {
+    max-width: 100%;
+    height: auto;
+}
+
+#about-section {
+    text-align: center;
+    padding-right: 600px;
+    padding-left: 600px;
+    margin-left: 100px;
+}
+
+
+input[type="text"] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 300px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="email"] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 300px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    margin: 8px 300px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 2em;
+    resize: none;
+}
+
+input[type="submit"] {
+    width: 50%;
+    background-color: #D9D3EA;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 300px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form {
+ display: flex;
+}
+
+.contact-img {
+    position: 0 0;
+    size: cover;
+    height: 100px;
+    max-width: 100%;
+    padding-top: 20px;
+}
